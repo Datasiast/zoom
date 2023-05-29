@@ -1,5 +1,5 @@
 name: Resuable WFs
-on: workflow call
+on: workflow_call
 jobs:
     deploy:
         runs-on: ubuntu-latest

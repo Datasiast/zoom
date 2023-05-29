@@ -30,4 +30,4 @@ jobs:
               run: echo "deploying .."
             - name: Set result output
               id: set-result
-              run: echo "::set-output name=step-result::success"  
+              run: echo "::set-outputname=step-result::success"  
